@@ -1,0 +1,47 @@
+table
+{
+	border: 1px solid black;
+	width: 100%;
+}
+
+thead
+{
+	background-color:#eee;
+	border: 1px solid black;
+}
+
+form .grid-20
+{
+	font-weight:bold;
+}
+
+form .grid-100
+{
+	margin-bottom: 1em;
+}
+
+form input[type=text], input[type=password], select
+{
+	padding:1em;
+	min-width:50%;
+}
+
+.ok
+{
+	background-color:green;
+	color:white;
+}
+
+.erro
+{
+	background-color:red;
+	color:white;
+}
+	
+	
+	
+	
+	
+	
+	
+	

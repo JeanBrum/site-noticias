@@ -1,0 +1,32 @@
+body
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+#banner
+{
+	background-image:url("../img/banner.gif");
+	height:11em;
+	background-position: center;
+	background-size: cover;
+	margin-bottom:1em;
+	
+}
+
+#pesquisa
+{
+	background-color:#00458E;
+	color:white;
+	padding:0.5em 0;
+}
+
+#pesquisa form
+{
+	display:inline-block;
+	margin:0;
+}
+
+#pesquisa a
+{
+	color:white;
+}
